@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-15T20:26:39.499Z",
+  "updated": "2026-10-15T20:57:12.494Z",
   "games": [
     {
       "id": "g1792029265665",
@@ -15,8 +15,8 @@
       "id": "g1792029291457",
       "name": "Until Dawn",
       "accent": "#5cadb7",
-      "downloadUrl": "",
-      "exeName": "idman642build52.exe",
+      "downloadUrl": "https://bzzhr.to/9mcsp84djaox",
+      "exeName": "",
       "cover": "images/8bc4b7f2e8cd.png"
     },
     {
