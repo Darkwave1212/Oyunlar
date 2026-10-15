@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-10-15T19:20:21.971Z",
+  "updated": "2026-10-15T20:26:39.499Z",
   "games": [
     {
       "id": "g1792029265665",
       "name": "Ratchet & Clank: Rift Apart",
       "accent": "#d11fc2",
-      "downloadUrl": "",
+      "downloadUrl": "https://gofile.io/d/xKuxq8xa",
       "exeName": "tinytask.exe",
       "cover": "images/5879cfbf6396.png",
       "hero": "images/20ad9f801645.jpg"
@@ -202,6 +202,14 @@
       "downloadUrl": "",
       "exeName": "tinytask.exe",
       "cover": "images/c4b83a6bd4aa.png"
+    },
+    {
+      "id": "gmv9zocf3",
+      "name": "Gta 5",
+      "accent": "#3dc45a",
+      "downloadUrl": "https://gofile.io/d/iAQHeK1c",
+      "exeName": "",
+      "cover": "images/1b82c2ecf8b7.jpg"
     }
   ]
 }
