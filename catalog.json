@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "updated": "2026-10-15T19:20:21.971Z",
+  "games": [
+    {
+      "id": "g1792029265665",
+      "name": "Ratchet & Clank: Rift Apart",
+      "accent": "#d11fc2",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/5879cfbf6396.png",
+      "hero": "images/20ad9f801645.jpg"
+    },
+    {
+      "id": "g1792029291457",
+      "name": "Until Dawn",
+      "accent": "#5cadb7",
+      "downloadUrl": "",
+      "exeName": "idman642build52.exe",
+      "cover": "images/8bc4b7f2e8cd.png"
+    },
+    {
+      "id": "g1792029536024",
+      "name": "First Light",
+      "accent": "#e1bc37",
+      "downloadUrl": "",
+      "exeName": "007FirstLight.exe",
+      "cover": "images/a2badca01499.png"
+    },
+    {
+      "id": "g1792029544414",
+      "name": "Ac Shadows",
+      "accent": "#2e8094",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/65adfa14638b.png"
+    },
+    {
+      "id": "g1792029555260",
+      "name": "Clive Barker's Hellraiser - Revival",
+      "accent": "#dd3131",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/68065b756202.jpg"
+    },
+    {
+      "id": "g1792029564493",
+      "name": "CONTROL Resonant",
+      "accent": "#e54b24",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/e06dd7586d27.png"
+    },
+    {
+      "id": "g1792029587440",
+      "name": "The Blood of Dawnwalker",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/70b70773515d.png"
+    },
+    {
+      "id": "g1792029596362",
+      "name": "Directive 8020",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "FileZilla_3.70.6_win64-setup.exe",
+      "cover": "images/eca422dde023.png"
+    },
+    {
+      "id": "g1792029609810",
+      "name": "Dispatch",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/6a02118118d6.png"
+    },
+    {
+      "id": "g1792029617871",
+      "name": "Dragon Age: The Veilguard",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/ccd41175262e.jpg"
+    },
+    {
+      "id": "g1792033079835",
+      "name": "FINAL FANTASY 16",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/54437dc14df2.png"
+    },
+    {
+      "id": "g1792033135447",
+      "name": "FINAL FANTASY VII REBIRTH",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/409944434e59.png"
+    },
+    {
+      "id": "g1792033176151",
+      "name": "LEGO Batman: Legacy of the Dark Knight",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/8ecc40e8e7fb.jpg"
+    },
+    {
+      "id": "g1792033211779",
+      "name": "PRAGMATA",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/bfdc49a31559.png"
+    },
+    {
+      "id": "g1792033310216",
+      "name": "Avatar: Frontiers of Pandora",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "afop.exe",
+      "cover": "images/aaa6db07a720.png"
+    },
+    {
+      "id": "g1792033385390",
+      "name": "Gotham Knights",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/99316c1ce4e8.jpg"
+    },
+    {
+      "id": "g1792033428705",
+      "name": "MOUSE- P.I. For Hire",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/e7dda5883d94.jpg"
+    },
+    {
+      "id": "g1792033493130",
+      "name": "Grounded 2",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/a44d48896adb.png"
+    },
+    {
+      "id": "g1792033561543",
+      "name": "The Walking Dead The Telltale Definitive Series",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "WDC.exe",
+      "cover": "images/c3da39a62998.png"
+    },
+    {
+      "id": "g1792033610139",
+      "name": "Saints Row",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "SRLauncher.exe",
+      "cover": "images/3afed94f749d.png"
+    },
+    {
+      "id": "g1792033664513",
+      "name": "Red Faction Guerrilla Re-MARS-tered",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "rfg.exe",
+      "cover": "images/1a880756aa08.png"
+    },
+    {
+      "id": "g1792033747138",
+      "name": "Gears of War- E-Day",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/69536e0de3ef.png"
+    },
+    {
+      "id": "g1792033788885",
+      "name": "The Sinking City 2",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/d485ff4eb4fa.png"
+    },
+    {
+      "id": "g1792033849507",
+      "name": "Subnautica 2",
+      "accent": "#5b86ec",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/c9ef6119498a.png"
+    },
+    {
+      "id": "g1792033894254",
+      "name": "Resonance A Plague Tale Legacy",
+      "accent": "#cabb58",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cover": "images/c4b83a6bd4aa.png"
+    }
+  ]
+}
