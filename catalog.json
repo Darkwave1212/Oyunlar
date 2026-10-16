@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "updated": "2026-10-16T20:48:37.611Z",
   "banner": "Yağız yolu aklın yolu :D",
   "games": [
     {
@@ -93,17 +92,6 @@
       "sizeGB": 0,
       "added": 0,
       "cover": "images/eca422dde023.png"
-    },
-    {
-      "id": "g1792029609810",
-      "name": "Dispatch",
-      "accent": "#d7e141",
-      "downloadUrl": "https://gofile.io/d/b3553e9d-078a-4336-989c-228e86a5b6c4",
-      "exeName": "tinytask.exe",
-      "cats": [],
-      "sizeGB": 15,
-      "added": 0,
-      "cover": "images/6a02118118d6.png"
     },
     {
       "id": "g1792029617871",
@@ -304,6 +292,17 @@
       "sizeGB": 35,
       "added": 1792113556819,
       "cover": "images/9e70668ebfbc.jpg"
+    },
+    {
+      "id": "gmvbkgd2n",
+      "name": "Dispact",
+      "accent": "#d5df43",
+      "downloadUrl": "https://gofile.io/d/8CpE3wu7",
+      "exeName": "",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 1792191346223,
+      "cover": "images/6a02118118d6.png"
     }
   ]
 }
