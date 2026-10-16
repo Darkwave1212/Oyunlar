@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T00:46:08.882Z",
+  "updated": "2026-10-16T01:19:58.080Z",
   "banner": "Yağız yolu aklın yolu :D",
   "games": [
     {
@@ -12,8 +12,8 @@
       "cats": [
         "aksiyon"
       ],
-      "sizeGB": 40,
-      "added": 1792111556594,
+      "sizeGB": 45,
+      "added": 1792113214676,
       "cover": "images/5879cfbf6396.png",
       "hero": "images/20ad9f801645.jpg"
     },
@@ -291,6 +291,19 @@
       "sizeGB": 0,
       "added": 0,
       "cover": "images/1b82c2ecf8b7.jpg"
+    },
+    {
+      "id": "gmvaa52dv",
+      "name": "Cities: Skylines II",
+      "accent": "#0f76d7",
+      "downloadUrl": "https://www.youtube.com/watch?v=cnRibIOGHeY",
+      "exeName": "Cities: Skylines II",
+      "cats": [
+        "Şehir"
+      ],
+      "sizeGB": 35,
+      "added": 1792113556819,
+      "cover": "images/9e70668ebfbc.jpg"
     }
   ]
 }
