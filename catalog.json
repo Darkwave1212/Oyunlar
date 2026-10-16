@@ -1,14 +1,19 @@
 {
   "version": 1,
-  "updated": "2026-10-15T21:51:07.257Z",
+  "updated": "2026-10-16T00:46:08.882Z",
   "banner": "Yağız yolu aklın yolu :D",
   "games": [
     {
       "id": "g1792029265665",
       "name": "Ratchet & Clank: Rift Apart",
       "accent": "#d11fc2",
-      "downloadUrl": "https://gofile.io/d/xKuxq8xa",
+      "downloadUrl": "https://gofile.io/d/UkqVNcTt",
       "exeName": "tinytask.exe",
+      "cats": [
+        "aksiyon"
+      ],
+      "sizeGB": 40,
+      "added": 1792111556594,
       "cover": "images/5879cfbf6396.png",
       "hero": "images/20ad9f801645.jpg"
     },
@@ -18,6 +23,9 @@
       "accent": "#5cadb7",
       "downloadUrl": "https://www.youtube.com/watch?v=-vNVK5WM5C0",
       "exeName": "",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/8bc4b7f2e8cd.png"
     },
     {
@@ -26,6 +34,9 @@
       "accent": "#e1bc37",
       "downloadUrl": "",
       "exeName": "007FirstLight.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/a2badca01499.png"
     },
     {
@@ -34,6 +45,9 @@
       "accent": "#2e8094",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/65adfa14638b.png"
     },
     {
@@ -42,6 +56,9 @@
       "accent": "#dd3131",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/68065b756202.jpg"
     },
     {
@@ -50,6 +67,9 @@
       "accent": "#e54b24",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/e06dd7586d27.png"
     },
     {
@@ -58,6 +78,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/70b70773515d.png"
     },
     {
@@ -66,6 +89,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "FileZilla_3.70.6_win64-setup.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/eca422dde023.png"
     },
     {
@@ -74,6 +100,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/6a02118118d6.png"
     },
     {
@@ -82,6 +111,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/ccd41175262e.jpg"
     },
     {
@@ -90,6 +122,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/54437dc14df2.png"
     },
     {
@@ -98,6 +133,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/409944434e59.png"
     },
     {
@@ -106,6 +144,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/8ecc40e8e7fb.jpg"
     },
     {
@@ -114,6 +155,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/bfdc49a31559.png"
     },
     {
@@ -122,6 +166,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "afop.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/aaa6db07a720.png"
     },
     {
@@ -130,6 +177,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/99316c1ce4e8.jpg"
     },
     {
@@ -138,6 +188,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/e7dda5883d94.jpg"
     },
     {
@@ -146,6 +199,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/a44d48896adb.png"
     },
     {
@@ -154,6 +210,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "WDC.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/c3da39a62998.png"
     },
     {
@@ -162,6 +221,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "SRLauncher.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/3afed94f749d.png"
     },
     {
@@ -170,6 +232,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "rfg.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/1a880756aa08.png"
     },
     {
@@ -178,6 +243,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/69536e0de3ef.png"
     },
     {
@@ -186,6 +254,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/d485ff4eb4fa.png"
     },
     {
@@ -194,6 +265,9 @@
       "accent": "#5b86ec",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/c9ef6119498a.png"
     },
     {
@@ -202,6 +276,9 @@
       "accent": "#cabb58",
       "downloadUrl": "",
       "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/c4b83a6bd4aa.png"
     },
     {
@@ -210,6 +287,9 @@
       "accent": "#3dc45a",
       "downloadUrl": "https://gofile.io/d/iAQHeK1c",
       "exeName": "",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
       "cover": "images/1b82c2ecf8b7.jpg"
     }
   ]
