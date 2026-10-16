@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T02:30:53.313Z",
+  "updated": "2026-10-16T20:48:37.611Z",
   "banner": "Yağız yolu aklın yolu :D",
   "games": [
     {
@@ -299,22 +299,11 @@
       "downloadUrl": "https://www.youtube.com/watch?v=cnRibIOGHeY",
       "exeName": "Cities: Skylines II",
       "cats": [
-        "Şehir"
+        "Şehir Kurma"
       ],
       "sizeGB": 35,
       "added": 1792113556819,
       "cover": "images/9e70668ebfbc.jpg"
-    },
-    {
-      "id": "gmvaakvjc",
-      "name": "Enshrouded",
-      "accent": "#3182aa",
-      "downloadUrl": "https://filekeeper.net/download",
-      "exeName": "",
-      "cats": [],
-      "sizeGB": 30,
-      "added": 1792114294440,
-      "cover": "images/e1078e64210f.jpg"
     }
   ]
 }
