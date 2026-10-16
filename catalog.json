@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T01:24:26.052Z",
+  "updated": "2026-10-16T01:33:41.822Z",
   "banner": "Yağız yolu aklın yolu :D",
   "games": [
     {
@@ -290,7 +290,7 @@
       "cats": [],
       "sizeGB": 120,
       "added": 1792113858985,
-      "cover": "images/2aa5522173d2.png"
+      "cover": "images/939e9cdb2ded.png"
     },
     {
       "id": "gmvaa52dv",
@@ -304,6 +304,17 @@
       "sizeGB": 35,
       "added": 1792113556819,
       "cover": "images/9e70668ebfbc.jpg"
+    },
+    {
+      "id": "gmvaakvjc",
+      "name": "Enshrouded",
+      "accent": "#3182aa",
+      "downloadUrl": "https://filekeeper.net/download",
+      "exeName": "",
+      "cats": [],
+      "sizeGB": 30,
+      "added": 1792114294440,
+      "cover": "images/e1078e64210f.jpg"
     }
   ]
 }
