@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16T01:33:41.822Z",
+  "updated": "2026-10-16T02:30:53.313Z",
   "banner": "Yağız yolu aklın yolu :D",
   "games": [
     {
@@ -97,11 +97,11 @@
     {
       "id": "g1792029609810",
       "name": "Dispatch",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
+      "accent": "#d7e141",
+      "downloadUrl": "https://gofile.io/d/b3553e9d-078a-4336-989c-228e86a5b6c4",
       "exeName": "tinytask.exe",
       "cats": [],
-      "sizeGB": 0,
+      "sizeGB": 15,
       "added": 0,
       "cover": "images/6a02118118d6.png"
     },
