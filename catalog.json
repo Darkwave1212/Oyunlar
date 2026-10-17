@@ -318,6 +318,19 @@
       "sizeGB": 80,
       "added": 0,
       "cover": "images/3afed94f749d.png"
+    },
+    {
+      "id": "gmvbwc0wl",
+      "name": "RoboCop: Rogue City",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "",
+      "cats": [
+        "Aksiyon"
+      ],
+      "sizeGB": 0,
+      "added": 0,
+      "cover": "images/e1d3cf28dfc2.png"
     }
   ]
 }
