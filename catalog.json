@@ -204,17 +204,6 @@
       "cover": "images/c3da39a62998.png"
     },
     {
-      "id": "g1792033664513",
-      "name": "Red Faction Guerrilla Re-MARS-tered",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "rfg.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/1a880756aa08.png"
-    },
-    {
       "id": "g1792033747138",
       "name": "Gears of War- E-Day",
       "accent": "#3dc45a",
@@ -305,19 +294,6 @@
       "sizeGB": 10,
       "added": 1792210434444,
       "cover": "images/373b2ffc3b98.jpg"
-    },
-    {
-      "id": "gmvbw4ktw",
-      "name": "Saint Row",
-      "accent": "#47bac2",
-      "downloadUrl": "https://www.youtube.com/watch?v=xluPKc6J7q4",
-      "exeName": "",
-      "cats": [
-        "Aksiyon"
-      ],
-      "sizeGB": 80,
-      "added": 0,
-      "cover": "images/3afed94f749d.png"
     },
     {
       "id": "gmvbwc0wl",
