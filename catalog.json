@@ -116,17 +116,6 @@
       "cover": "images/54437dc14df2.png"
     },
     {
-      "id": "g1792033310216",
-      "name": "Avatar: Frontiers of Pandora",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "afop.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/aaa6db07a720.png"
-    },
-    {
       "id": "g1792033135447",
       "name": "FINAL FANTASY VII REBIRTH",
       "accent": "#3dc45a",
@@ -160,39 +149,6 @@
       "cover": "images/bfdc49a31559.png"
     },
     {
-      "id": "g1792033385390",
-      "name": "Gotham Knights",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "tinytask.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/99316c1ce4e8.jpg"
-    },
-    {
-      "id": "g1792033428705",
-      "name": "MOUSE- P.I. For Hire",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "tinytask.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/e7dda5883d94.jpg"
-    },
-    {
-      "id": "g1792033493130",
-      "name": "Grounded 2",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "tinytask.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/a44d48896adb.png"
-    },
-    {
       "id": "g1792033561543",
       "name": "The Walking Dead The Telltale Definitive Series",
       "accent": "#3dc45a",
@@ -215,17 +171,6 @@
       "cover": "images/d485ff4eb4fa.png"
     },
     {
-      "id": "g1792033747138",
-      "name": "Gears of War- E-Day",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "tinytask.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/69536e0de3ef.png"
-    },
-    {
       "id": "g1792033849507",
       "name": "Subnautica 2",
       "accent": "#5b86ec",
@@ -235,30 +180,6 @@
       "sizeGB": 0,
       "added": 0,
       "cover": "images/c9ef6119498a.png"
-    },
-    {
-      "id": "gmv9zocf3",
-      "name": "Gta 5",
-      "accent": "#3dc45a",
-      "downloadUrl": "https://gofile.io/d/iAQHeK1c",
-      "exeName": "",
-      "cats": [],
-      "sizeGB": 120,
-      "added": 1792113858985,
-      "cover": "images/939e9cdb2ded.png"
-    },
-    {
-      "id": "gmvaa52dv",
-      "name": "Cities: Skylines II",
-      "accent": "#0f76d7",
-      "downloadUrl": "https://www.youtube.com/watch?v=cnRibIOGHeY",
-      "exeName": "Cities: Skylines II",
-      "cats": [
-        "Şehir Kurma"
-      ],
-      "sizeGB": 35,
-      "added": 1792113556819,
-      "cover": "images/9e70668ebfbc.jpg"
     },
     {
       "id": "gmvbvthn0",
