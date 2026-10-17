@@ -3,6 +3,17 @@
   "banner": "Biz geliyoruz bizz Yağız ve Ali Bey :D",
   "games": [
     {
+      "id": "gmvbkgd2n",
+      "name": "Dispact",
+      "accent": "#d5df43",
+      "downloadUrl": "https://gofile.io/d/8CpE3wu7",
+      "exeName": "",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 1792191346223,
+      "cover": "images/6a02118118d6.png"
+    },
+    {
       "id": "g1792029265665",
       "name": "Ratchet & Clank: Rift Apart",
       "accent": "#d11fc2",
@@ -116,6 +127,17 @@
       "cover": "images/54437dc14df2.png"
     },
     {
+      "id": "g1792033310216",
+      "name": "Avatar: Frontiers of Pandora",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "afop.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
+      "cover": "images/aaa6db07a720.png"
+    },
+    {
       "id": "g1792033135447",
       "name": "FINAL FANTASY VII REBIRTH",
       "accent": "#3dc45a",
@@ -147,17 +169,6 @@
       "sizeGB": 0,
       "added": 0,
       "cover": "images/bfdc49a31559.png"
-    },
-    {
-      "id": "g1792033310216",
-      "name": "Avatar: Frontiers of Pandora",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "afop.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/aaa6db07a720.png"
     },
     {
       "id": "g1792033385390",
@@ -204,17 +215,6 @@
       "cover": "images/c3da39a62998.png"
     },
     {
-      "id": "g1792033747138",
-      "name": "Gears of War- E-Day",
-      "accent": "#3dc45a",
-      "downloadUrl": "",
-      "exeName": "tinytask.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 0,
-      "cover": "images/69536e0de3ef.png"
-    },
-    {
       "id": "g1792033788885",
       "name": "The Sinking City 2",
       "accent": "#3dc45a",
@@ -224,6 +224,17 @@
       "sizeGB": 0,
       "added": 0,
       "cover": "images/d485ff4eb4fa.png"
+    },
+    {
+      "id": "g1792033747138",
+      "name": "Gears of War- E-Day",
+      "accent": "#3dc45a",
+      "downloadUrl": "",
+      "exeName": "tinytask.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 0,
+      "cover": "images/69536e0de3ef.png"
     },
     {
       "id": "g1792033849507",
@@ -270,17 +281,6 @@
       "sizeGB": 35,
       "added": 1792113556819,
       "cover": "images/9e70668ebfbc.jpg"
-    },
-    {
-      "id": "gmvbkgd2n",
-      "name": "Dispact",
-      "accent": "#d5df43",
-      "downloadUrl": "https://gofile.io/d/8CpE3wu7",
-      "exeName": "",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 1792191346223,
-      "cover": "images/6a02118118d6.png"
     },
     {
       "id": "gmvbvthn0",
