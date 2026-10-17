@@ -303,6 +303,19 @@
       "sizeGB": 0,
       "added": 1792191346223,
       "cover": "images/6a02118118d6.png"
+    },
+    {
+      "id": "gmvbvthn0",
+      "name": "The Plucky Squire",
+      "accent": "#e651da",
+      "downloadUrl": "",
+      "exeName": "",
+      "cats": [
+        "Bulmaca"
+      ],
+      "sizeGB": 0,
+      "added": 1792210434444,
+      "cover": "images/373b2ffc3b98.jpg"
     }
   ]
 }
