@@ -130,9 +130,11 @@
       "id": "g1792033176151",
       "name": "LEGO Batman: Legacy of the Dark Knight",
       "accent": "#3dc45a",
-      "downloadUrl": "",
+      "downloadUrl": "https://www.youtube.com/watch?v=8YDQspc0fcw",
       "exeName": "tinytask.exe",
-      "cats": [],
+      "cats": [
+        "aksiyon"
+      ],
       "sizeGB": 0,
       "added": 0,
       "cover": "images/8ecc40e8e7fb.jpg"
