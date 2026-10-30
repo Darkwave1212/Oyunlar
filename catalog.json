@@ -11,6 +11,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/6a02118118d6.png"
     },
     {
@@ -22,6 +23,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/8bc4b7f2e8cd.png"
     },
     {
@@ -35,6 +37,7 @@
       ],
       "sizeGB": 45,
       "added": 0,
+      "pick": false,
       "cover": "images/5879cfbf6396.png",
       "hero": "images/20ad9f801645.jpg"
     },
@@ -47,6 +50,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 1792529068610,
+      "pick": false,
       "cover": "images/a2badca01499.png"
     },
     {
@@ -58,6 +62,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": true,
       "cover": "images/68065b756202.jpg"
     },
     {
@@ -68,7 +73,8 @@
       "exeName": "tinytask.exe",
       "cats": [],
       "sizeGB": 0,
-      "added": 0,
+      "added": 1793385902804,
+      "pick": true,
       "cover": "images/e06dd7586d27.png"
     },
     {
@@ -80,6 +86,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/70b70773515d.png"
     },
     {
@@ -91,6 +98,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/eca422dde023.png"
     },
     {
@@ -102,6 +110,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/ccd41175262e.jpg"
     },
     {
@@ -113,6 +122,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/54437dc14df2.png"
     },
     {
@@ -124,6 +134,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/409944434e59.png"
     },
     {
@@ -137,6 +148,7 @@
       ],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/8ecc40e8e7fb.jpg"
     },
     {
@@ -148,6 +160,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/bfdc49a31559.png"
     },
     {
@@ -159,6 +172,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/c3da39a62998.png"
     },
     {
@@ -170,6 +184,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/d485ff4eb4fa.png"
     },
     {
@@ -181,6 +196,7 @@
       "cats": [],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/c9ef6119498a.png"
     },
     {
@@ -194,6 +210,7 @@
       ],
       "sizeGB": 10,
       "added": 0,
+      "pick": false,
       "cover": "images/373b2ffc3b98.jpg"
     },
     {
@@ -207,6 +224,7 @@
       ],
       "sizeGB": 0,
       "added": 0,
+      "pick": false,
       "cover": "images/e1d3cf28dfc2.png"
     }
   ]
