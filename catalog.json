@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "banner": "Çınar ağacı :D",
+  "banner": "İban 000000000000000000000",
   "games": [
     {
       "id": "gmvbkgd2n",
@@ -42,18 +42,6 @@
       "hero": "images/20ad9f801645.jpg"
     },
     {
-      "id": "g1792029536024",
-      "name": "First Light",
-      "accent": "#e1bc37",
-      "downloadUrl": "https://www.youtube.com/watch?v=fT6TIXnmv-s",
-      "exeName": "007FirstLight.exe",
-      "cats": [],
-      "sizeGB": 0,
-      "added": 1792529068610,
-      "pick": false,
-      "cover": "images/a2badca01499.png"
-    },
-    {
       "id": "g1792029555260",
       "name": "Clive Barker's Hellraiser - Revival",
       "accent": "#dd3131",
@@ -64,6 +52,18 @@
       "added": 0,
       "pick": true,
       "cover": "images/68065b756202.jpg"
+    },
+    {
+      "id": "g1792029536024",
+      "name": "First Light",
+      "accent": "#e1bc37",
+      "downloadUrl": "https://www.youtube.com/watch?v=fT6TIXnmv-s",
+      "exeName": "007FirstLight.exe",
+      "cats": [],
+      "sizeGB": 0,
+      "added": 1792529068610,
+      "pick": false,
+      "cover": "images/a2badca01499.png"
     },
     {
       "id": "g1792029564493",
